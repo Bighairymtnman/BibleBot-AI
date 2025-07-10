@@ -2,7 +2,7 @@
 
 A conversational Progressive Web App (PWA) designed to help you find comfort, guidance, and inspiration in the Holy Scripture.
 
-**[➡️ Live Application](https://biblebot-ai.onrender.com/)**
+**[Live Application](https://biblebot-ai.onrender.com/)**
 
 
 ---
@@ -61,6 +61,14 @@ You can install BibleBot AI on your device for a native app-like experience.
 1.  Open the live application URL in your browser (Safari on iOS, Chrome on Android).
 2.  **On iOS:** Tap the "Share" button, scroll down, and select "Add to Home Screen".
 3.  **On Android:** Tap the three-dot menu icon and select "Install app" or "Add to Home screen".
+
+## Screenshots
+<img src="./screenshots/4.jpg" alt="Tree Selection" width="300">
+<img src="./screenshots/1.jpg" alt="Tree Selection" width="300">
+<img src="./screenshots/2.jpg" alt="Tree Selection" width="300">
+<img src="./screenshots/3.jpg" alt="Tree Selection" width="300">
+
+
 
 ## Author
 
