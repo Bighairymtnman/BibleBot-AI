@@ -1,4 +1,4 @@
-# BibleBot AI ✝️
+# BibleBot AI
 
 A conversational Progressive Web App (PWA) designed to help you find comfort, guidance, and inspiration in the Holy Scripture.
 
