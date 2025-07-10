@@ -10,8 +10,6 @@ A conversational Progressive Web App (PWA) designed to help you find comfort, gu
 
 
 
-*(Note: I recommend taking a screenshot or a short GIF of your app and replacing the link above.)*
-
 ## About The Project
 
 BibleBot AI is a friendly and intelligent chatbot that makes exploring the Bible intuitive and accessible. Whether you're looking for a specific verse, seeking encouragement for a particular emotion, or just want a random piece of scripture to reflect on, BibleBot is here to help.
