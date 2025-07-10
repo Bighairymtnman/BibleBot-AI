@@ -2,9 +2,8 @@
 
 A conversational Progressive Web App (PWA) designed to help you find comfort, guidance, and inspiration in the Holy Scripture.
 
-**[➡️ Live Application](https://biblebot-pwa.onrender.com)**
+**[➡️ Live Application](https://biblebot-ai.onrender.com/)**
 
-*(Note: Please replace the link above with your actual Render URL!)*
 
 ---
 
