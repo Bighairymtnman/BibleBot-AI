@@ -1,4 +1,5 @@
 # BibleBot AI
+<img src="./screenshots/appIcon.png" alt="TreePal Icon" width="200" height="200">
 
 A conversational Progressive Web App (PWA) designed to help you find comfort, guidance, and inspiration in the Holy Scripture.
 
